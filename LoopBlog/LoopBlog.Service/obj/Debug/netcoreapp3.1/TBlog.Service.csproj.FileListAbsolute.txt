@@ -1,0 +1,13 @@
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\bin\Debug\netcoreapp3.1\TBlog.Service.deps.json
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\bin\Debug\netcoreapp3.1\TBlog.Service.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\bin\Debug\netcoreapp3.1\TBlog.Service.pdb
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\bin\Debug\netcoreapp3.1\TBlog.Data.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\bin\Debug\netcoreapp3.1\TBlog.Data.pdb
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.csproj.AssemblyReference.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.AssemblyInfoInputs.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.AssemblyInfo.cs
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.csproj.CoreCompileInputs.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.csproj.CopyComplete
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master\QuiqBlog.Service\obj\Debug\netcoreapp3.1\TBlog.Service.pdb

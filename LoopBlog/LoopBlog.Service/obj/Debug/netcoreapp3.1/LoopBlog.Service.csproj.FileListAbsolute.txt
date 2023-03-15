@@ -1,0 +1,39 @@
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.deps.json
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.pdb
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.AssemblyReference.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.AssemblyInfoInputs.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.AssemblyInfo.cs
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.CoreCompileInputs.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.CopyComplete
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.pdb
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.deps.json
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.dll
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.pdb
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.AssemblyReference.cache
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.AssemblyInfoInputs.cache
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.AssemblyInfo.cs
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.CoreCompileInputs.cache
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.CopyComplete
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.dll
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.pdb
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.deps.json
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.dll
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Service.pdb
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\bin\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.AssemblyReference.cache
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.AssemblyInfoInputs.cache
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.AssemblyInfo.cs
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.CoreCompileInputs.cache
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.csproj.CopyComplete
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.dll
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Service\obj\Debug\netcoreapp3.1\LoopBlog.Service.pdb

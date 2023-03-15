@@ -1,0 +1,30 @@
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.deps.json
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.csproj.AssemblyReference.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.AssemblyInfoInputs.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.AssemblyInfo.cs
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\Downloads\QuiqBlog-master - Kopya\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.deps.json
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.csproj.AssemblyReference.cache
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.AssemblyInfoInputs.cache
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.AssemblyInfo.cs
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\Downloads\LoopBlog\QuiqBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.deps.json
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\bin\Debug\netcoreapp3.1\LoopBlog.Data.pdb
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.csproj.AssemblyReference.cache
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.AssemblyInfoInputs.cache
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.AssemblyInfo.cs
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.dll
+C:\Users\mnet2\source\repos\LoopBlog\LoopBlog.Data\obj\Debug\netcoreapp3.1\LoopBlog.Data.pdb
